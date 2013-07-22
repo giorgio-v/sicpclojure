@@ -3,6 +3,7 @@
 /classes
 /checkouts
 /static/css/.sass-cache
+/deploy
 pom.xml
 *.jar
 *.class
